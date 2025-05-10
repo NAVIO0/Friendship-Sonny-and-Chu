@@ -1,0 +1,11 @@
+body{
+  background: #ff00ea;
+background: radial-gradient(circle, rgba(255, 0, 234, 1) 16%, rgba(232, 148, 233, 1) 69%);
+  text-align:center
+}
+
+h1,h2{
+  background: #E894E9;
+background: radial-gradient(circle, rgba(232, 148, 233, 1) 18%, rgba(255, 0, 234, 1) 100%);
+  color:
+}
